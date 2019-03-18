@@ -1,0 +1,7 @@
+/home/pi/raspicam-0.1.6_yj/build/utils/CMakeFiles/raspicam_cv_still_test.dir
+/home/pi/raspicam-0.1.6_yj/build/src/CMakeFiles/raspicam.dir
+/home/pi/raspicam-0.1.6_yj/build/utils/CMakeFiles/raspicam_still_test.dir
+/home/pi/raspicam-0.1.6_yj/build/CMakeFiles/uninstall.dir
+/home/pi/raspicam-0.1.6_yj/build/utils/CMakeFiles/raspicam_cv_test.dir
+/home/pi/raspicam-0.1.6_yj/build/src/CMakeFiles/raspicam_cv.dir
+/home/pi/raspicam-0.1.6_yj/build/utils/CMakeFiles/raspicam_test.dir
